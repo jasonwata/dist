@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/fixed/change-password", {data:[{title:"Change Password"}],fetch:[],mutations:[]});

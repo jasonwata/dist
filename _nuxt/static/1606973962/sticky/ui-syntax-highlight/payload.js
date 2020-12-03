@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/sticky/ui-syntax-highlight", {data:[{}],fetch:[],mutations:[]});

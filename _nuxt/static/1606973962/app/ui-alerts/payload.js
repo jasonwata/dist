@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/app/ui-alerts", {data:[{}],fetch:[],mutations:[]});

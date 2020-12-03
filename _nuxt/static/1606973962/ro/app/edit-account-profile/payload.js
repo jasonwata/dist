@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/ro/app/edit-account-profile", {data:[{title:"Profil & Confidențialitate"}],fetch:[],mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/ro/app/instructor-edit-quiz", {data:[{title:"Editare Test"}],fetch:[],mutations:[]});

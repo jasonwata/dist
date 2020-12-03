@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/fixed/billing-payment", {data:[{title:"Payment Information"}],fetch:[],mutations:[]});

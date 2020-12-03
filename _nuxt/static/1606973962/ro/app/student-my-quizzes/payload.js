@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/ro/app/student-my-quizzes", {data:[{title:"Testele mele"}],fetch:[],mutations:[]});

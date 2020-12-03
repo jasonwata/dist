@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/sticky/billing", {data:[{title:"Subscription"}],fetch:[],mutations:[]});

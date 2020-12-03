@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/app/student-skill-assessment", {data:[{title:"Skill Assessment"}],fetch:[],mutations:[]});

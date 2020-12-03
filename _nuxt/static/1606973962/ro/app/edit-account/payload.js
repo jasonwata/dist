@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/ro/app/edit-account", {data:[{title:"Informații de bază"}],fetch:[],mutations:[]});

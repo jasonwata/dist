@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/boxed/login", {data:[{title:"Login"}],fetch:[],mutations:[]});

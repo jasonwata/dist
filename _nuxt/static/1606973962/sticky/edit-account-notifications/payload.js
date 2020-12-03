@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/sticky/edit-account-notifications", {data:[{title:"Email Notifications"}],fetch:[],mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/boxed/ui-chart-bar", {data:[{title:"Bar Chart"}],fetch:[],mutations:[]});

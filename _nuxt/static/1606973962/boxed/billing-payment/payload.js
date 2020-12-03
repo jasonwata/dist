@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/boxed/billing-payment", {data:[{title:"Payment Information"}],fetch:[],mutations:[]});

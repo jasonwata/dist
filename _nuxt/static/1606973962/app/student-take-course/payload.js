@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/app/student-take-course", {data:[{title:"Take Course"}],fetch:[],mutations:[]});

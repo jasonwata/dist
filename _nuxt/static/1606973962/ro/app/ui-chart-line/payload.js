@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/ro/app/ui-chart-line", {data:[{title:"Line Chart"}],fetch:[],mutations:[]});

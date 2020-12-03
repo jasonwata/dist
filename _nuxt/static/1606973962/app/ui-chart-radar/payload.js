@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/app/ui-chart-radar", {data:[{title:"Radar Chart"}],fetch:[],mutations:[]});

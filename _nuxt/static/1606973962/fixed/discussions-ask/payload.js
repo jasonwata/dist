@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/fixed/discussions-ask", {data:[{title:"Ask Question"}],fetch:[],mutations:[]});

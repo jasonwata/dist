@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/ro/app/student-take-quiz", {data:[{title:"Efectuare Test"}],fetch:[],mutations:[]});

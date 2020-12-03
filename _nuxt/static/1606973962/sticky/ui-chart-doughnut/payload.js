@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/sticky/ui-chart-doughnut", {data:[{title:"Doughnut Chart"}],fetch:[],mutations:[]});

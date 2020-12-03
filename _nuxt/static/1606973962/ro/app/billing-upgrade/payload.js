@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/ro/app/billing-upgrade", {data:[{title:"Reînnoiește cont"}],fetch:[],mutations:[]});

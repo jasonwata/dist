@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/app/student-path", {data:[{title:"Path Details"}],fetch:[],mutations:[]});

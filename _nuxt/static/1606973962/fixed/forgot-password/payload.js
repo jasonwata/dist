@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/fixed/forgot-password", {data:[{title:"Forgot Password?"}],fetch:[],mutations:[]});

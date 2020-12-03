@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/ro/app/edit-account-notifications", {data:[{title:"Notificări Email"}],fetch:[],mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/fixed/ui-forms", {data:[{}],fetch:[],mutations:[]});

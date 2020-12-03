@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/boxed/blog-post", {data:[{title:"Blog Post"}],fetch:[],mutations:[]});

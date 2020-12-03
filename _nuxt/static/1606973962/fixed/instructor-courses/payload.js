@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/fixed/instructor-courses", {data:[{title:"Manage Courses"}],fetch:[],mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/ro/app/instructor-edit-course", {data:[{title:"Editare Curs"}],fetch:[],mutations:[]});

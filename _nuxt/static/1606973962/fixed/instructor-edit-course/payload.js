@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/fixed/instructor-edit-course", {data:[{title:"Edit Course"}],fetch:[],mutations:[]});

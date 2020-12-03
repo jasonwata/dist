@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/ro/app/student-path", {data:[{title:"Detalii Calificare"}],fetch:[],mutations:[]});

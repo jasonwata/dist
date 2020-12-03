@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/ro/app/billing", {data:[{title:"Abonament"}],fetch:[],mutations:[]});

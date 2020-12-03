@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/ro/app/instructor-dashboard", {data:[{title:"Tablou de bord"}],fetch:[],mutations:[]});

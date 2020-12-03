@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/fixed/student-my-paths", {data:[{title:"My Paths"}],fetch:[],mutations:[]});

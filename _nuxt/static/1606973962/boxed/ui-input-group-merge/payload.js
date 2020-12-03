@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/boxed/ui-input-group-merge", {data:[{}],fetch:[],mutations:[]});

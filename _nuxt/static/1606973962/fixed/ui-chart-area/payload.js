@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/fixed/ui-chart-area", {data:[{title:"Area Chart"}],fetch:[],mutations:[]});

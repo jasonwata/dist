@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/app/ui-chart-bar", {data:[{title:"Bar Chart"}],fetch:[],mutations:[]});

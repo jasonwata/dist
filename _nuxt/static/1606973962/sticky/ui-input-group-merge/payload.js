@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/sticky/ui-input-group-merge", {data:[{}],fetch:[],mutations:[]});

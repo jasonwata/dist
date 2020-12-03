@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/fixed/student-paths", {data:[{}],fetch:[],mutations:[]});

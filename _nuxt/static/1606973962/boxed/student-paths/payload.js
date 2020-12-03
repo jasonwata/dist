@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/boxed/student-paths", {data:[{}],fetch:[],mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/boxed/billing-invoice", {data:[{title:"Invoice"}],fetch:[],mutations:[]});

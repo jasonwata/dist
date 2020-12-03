@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/ro/app/instructor-earnings", {data:[{title:"Încasări"}],fetch:[],mutations:[]});

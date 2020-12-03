@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/ro/app/signup", {data:[{}],fetch:[],mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/app/discussion", {data:[{title:"Discussion"}],fetch:[],mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/ro/app/ui-header", {data:[{}],fetch:[],mutations:[]});

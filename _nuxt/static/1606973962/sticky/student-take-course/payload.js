@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/sticky/student-take-course", {data:[{title:"Take Course"}],fetch:[],mutations:[]});

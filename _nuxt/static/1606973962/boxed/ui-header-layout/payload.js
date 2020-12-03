@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/boxed/ui-header-layout", {data:[{}],fetch:[],mutations:[]});

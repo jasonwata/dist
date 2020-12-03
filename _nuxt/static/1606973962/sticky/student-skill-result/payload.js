@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/sticky/student-skill-result", {data:[{title:"Path Details"}],fetch:[],mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/boxed/edit-account-notifications", {data:[{title:"Email Notifications"}],fetch:[],mutations:[]});

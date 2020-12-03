@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/fixed/ui-form-image-group", {data:[{}],fetch:[],mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/sticky/instructor-edit-course", {data:[{title:"Edit Course"}],fetch:[],mutations:[]});

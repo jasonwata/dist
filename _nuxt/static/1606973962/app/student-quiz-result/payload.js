@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/app/student-quiz-result", {data:[{title:"Quiz Result"}],fetch:[],mutations:[]});

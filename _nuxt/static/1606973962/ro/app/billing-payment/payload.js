@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/ro/app/billing-payment", {data:[{title:"Informații Plată"}],fetch:[],mutations:[]});

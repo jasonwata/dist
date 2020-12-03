@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/fixed/edit-account-profile", {data:[{title:"Profile & Privacy"}],fetch:[],mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/app/student-profile", {data:[{title:"Student Profile"}],fetch:[],mutations:[]});

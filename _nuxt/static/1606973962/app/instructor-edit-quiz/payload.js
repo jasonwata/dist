@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/app/instructor-edit-quiz", {data:[{title:"Edit Quiz"}],fetch:[],mutations:[]});

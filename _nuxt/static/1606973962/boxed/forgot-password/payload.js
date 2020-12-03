@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/boxed/forgot-password", {data:[{title:"Forgot Password?"}],fetch:[],mutations:[]});

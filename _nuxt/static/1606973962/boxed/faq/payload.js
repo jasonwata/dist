@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/boxed/faq", {data:[{title:"FAQ"}],fetch:[],mutations:[]});

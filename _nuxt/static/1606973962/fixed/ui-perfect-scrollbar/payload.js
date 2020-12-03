@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/fixed/ui-perfect-scrollbar", {data:[{}],fetch:[],mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/sticky/ui-app-layout", {data:[{}],fetch:[],mutations:[]});

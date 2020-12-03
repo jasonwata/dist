@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/fixed/student-my-courses", {data:[{title:"My Courses"}],fetch:[],mutations:[]});

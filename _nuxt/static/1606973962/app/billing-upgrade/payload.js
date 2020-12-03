@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/app/billing-upgrade", {data:[{title:"Upgrade Account"}],fetch:[],mutations:[]});

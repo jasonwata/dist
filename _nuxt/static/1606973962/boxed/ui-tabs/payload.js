@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/boxed/ui-tabs", {data:[{}],fetch:[],mutations:[]});

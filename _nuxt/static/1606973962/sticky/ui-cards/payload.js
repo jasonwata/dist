@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/sticky/ui-cards", {data:[{}],fetch:[],mutations:[]});

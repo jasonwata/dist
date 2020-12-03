@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/app/instructor-statement", {data:[{title:"Statement"}],fetch:[],mutations:[]});

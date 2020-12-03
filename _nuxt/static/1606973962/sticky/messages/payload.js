@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/sticky/messages", {data:[{title:"Messages"}],fetch:[],mutations:[]});
