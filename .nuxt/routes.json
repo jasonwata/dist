@@ -1,0 +1,996 @@
+[
+  {
+    "name": "index___ro",
+    "path": "/ro",
+    "component": "/Users/design/plf/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_5b6ef169"
+  },
+  {
+    "name": "layout-billing___ro",
+    "path": "/ro/:layout/billing",
+    "component": "/Users/design/plf/pages/_layout/billing.vue",
+    "chunkName": "pages/_layout/billing",
+    "_name": "_a1f2a9e8"
+  },
+  {
+    "name": "layout-billing-history___ro",
+    "path": "/ro/:layout/billing-history",
+    "component": "/Users/design/plf/pages/_layout/billing-history.vue",
+    "chunkName": "pages/_layout/billing-history",
+    "_name": "_399e8353"
+  },
+  {
+    "name": "layout-billing-invoice___ro",
+    "path": "/ro/:layout/billing-invoice",
+    "component": "/Users/design/plf/pages/_layout/billing-invoice.vue",
+    "chunkName": "pages/_layout/billing-invoice",
+    "_name": "_1d7c2528"
+  },
+  {
+    "name": "layout-billing-payment___ro",
+    "path": "/ro/:layout/billing-payment",
+    "component": "/Users/design/plf/pages/_layout/billing-payment.vue",
+    "chunkName": "pages/_layout/billing-payment",
+    "_name": "_6e5a7076"
+  },
+  {
+    "name": "layout-billing-upgrade___ro",
+    "path": "/ro/:layout/billing-upgrade",
+    "component": "/Users/design/plf/pages/_layout/billing-upgrade.vue",
+    "chunkName": "pages/_layout/billing-upgrade",
+    "_name": "_929d964a"
+  },
+  {
+    "name": "layout-blog___ro",
+    "path": "/ro/:layout/blog",
+    "component": "/Users/design/plf/pages/_layout/blog.vue",
+    "chunkName": "pages/_layout/blog",
+    "_name": "_0c341061"
+  },
+  {
+    "name": "layout-blog-post___ro",
+    "path": "/ro/:layout/blog-post",
+    "component": "/Users/design/plf/pages/_layout/blog-post.vue",
+    "chunkName": "pages/_layout/blog-post",
+    "_name": "_44c8563c"
+  },
+  {
+    "name": "layout-change-password___ro",
+    "path": "/ro/:layout/change-password",
+    "component": "/Users/design/plf/pages/_layout/change-password.vue",
+    "chunkName": "pages/_layout/change-password",
+    "_name": "_da198dae"
+  },
+  {
+    "name": "layout-discussion___ro",
+    "path": "/ro/:layout/discussion",
+    "component": "/Users/design/plf/pages/_layout/discussion.vue",
+    "chunkName": "pages/_layout/discussion",
+    "_name": "_12812ca7"
+  },
+  {
+    "name": "layout-discussions___ro",
+    "path": "/ro/:layout/discussions",
+    "component": "/Users/design/plf/pages/_layout/discussions.vue",
+    "chunkName": "pages/_layout/discussions",
+    "_name": "_4150095c"
+  },
+  {
+    "name": "layout-discussions-ask___ro",
+    "path": "/ro/:layout/discussions-ask",
+    "component": "/Users/design/plf/pages/_layout/discussions-ask.vue",
+    "chunkName": "pages/_layout/discussions-ask",
+    "_name": "_491cfef0"
+  },
+  {
+    "name": "layout-edit-account___ro",
+    "path": "/ro/:layout/edit-account",
+    "component": "/Users/design/plf/pages/_layout/edit-account.vue",
+    "chunkName": "pages/_layout/edit-account",
+    "_name": "_1a43d729"
+  },
+  {
+    "name": "layout-edit-account-notifications___ro",
+    "path": "/ro/:layout/edit-account-notifications",
+    "component": "/Users/design/plf/pages/_layout/edit-account-notifications.vue",
+    "chunkName": "pages/_layout/edit-account-notifications",
+    "_name": "_3892a5c4"
+  },
+  {
+    "name": "layout-edit-account-profile___ro",
+    "path": "/ro/:layout/edit-account-profile",
+    "component": "/Users/design/plf/pages/_layout/edit-account-profile.vue",
+    "chunkName": "pages/_layout/edit-account-profile",
+    "_name": "_c76755f6"
+  },
+  {
+    "name": "layout-faq___ro",
+    "path": "/ro/:layout/faq",
+    "component": "/Users/design/plf/pages/_layout/faq.vue",
+    "chunkName": "pages/_layout/faq",
+    "_name": "_5e22f2a7"
+  },
+  {
+    "name": "layout-forgot-password___ro",
+    "path": "/ro/:layout/forgot-password",
+    "component": "/Users/design/plf/pages/_layout/forgot-password.vue",
+    "chunkName": "pages/_layout/forgot-password",
+    "_name": "_d1d746d4"
+  },
+  {
+    "name": "layout-help-center___ro",
+    "path": "/ro/:layout/help-center",
+    "component": "/Users/design/plf/pages/_layout/help-center.vue",
+    "chunkName": "pages/_layout/help-center",
+    "_name": "_80eaa51c"
+  },
+  {
+    "name": "layout-home___ro",
+    "path": "/ro/:layout/home",
+    "component": "/Users/design/plf/pages/_layout/home.vue",
+    "chunkName": "pages/_layout/home",
+    "_name": "_16a7ef1e"
+  },
+  {
+    "name": "layout-instructor-courses___ro",
+    "path": "/ro/:layout/instructor-courses",
+    "component": "/Users/design/plf/pages/_layout/instructor-courses.vue",
+    "chunkName": "pages/_layout/instructor-courses",
+    "_name": "_04781807"
+  },
+  {
+    "name": "layout-instructor-dashboard___ro",
+    "path": "/ro/:layout/instructor-dashboard",
+    "component": "/Users/design/plf/pages/_layout/instructor-dashboard.vue",
+    "chunkName": "pages/_layout/instructor-dashboard",
+    "_name": "_f41b01ba"
+  },
+  {
+    "name": "layout-instructor-earnings___ro",
+    "path": "/ro/:layout/instructor-earnings",
+    "component": "/Users/design/plf/pages/_layout/instructor-earnings.vue",
+    "chunkName": "pages/_layout/instructor-earnings",
+    "_name": "_03fc2bea"
+  },
+  {
+    "name": "layout-instructor-edit-course___ro",
+    "path": "/ro/:layout/instructor-edit-course",
+    "component": "/Users/design/plf/pages/_layout/instructor-edit-course.vue",
+    "chunkName": "pages/_layout/instructor-edit-course",
+    "_name": "_43d6eb0d"
+  },
+  {
+    "name": "layout-instructor-edit-quiz___ro",
+    "path": "/ro/:layout/instructor-edit-quiz",
+    "component": "/Users/design/plf/pages/_layout/instructor-edit-quiz.vue",
+    "chunkName": "pages/_layout/instructor-edit-quiz",
+    "_name": "_5f7b2ec7"
+  },
+  {
+    "name": "layout-instructor-profile___ro",
+    "path": "/ro/:layout/instructor-profile",
+    "component": "/Users/design/plf/pages/_layout/instructor-profile.vue",
+    "chunkName": "pages/_layout/instructor-profile",
+    "_name": "_12f71d78"
+  },
+  {
+    "name": "layout-instructor-quizzes___ro",
+    "path": "/ro/:layout/instructor-quizzes",
+    "component": "/Users/design/plf/pages/_layout/instructor-quizzes.vue",
+    "chunkName": "pages/_layout/instructor-quizzes",
+    "_name": "_be5b51fc"
+  },
+  {
+    "name": "layout-instructor-statement___ro",
+    "path": "/ro/:layout/instructor-statement",
+    "component": "/Users/design/plf/pages/_layout/instructor-statement.vue",
+    "chunkName": "pages/_layout/instructor-statement",
+    "_name": "_70444f04"
+  },
+  {
+    "name": "layout-login___ro",
+    "path": "/ro/:layout/login",
+    "component": "/Users/design/plf/pages/_layout/login.vue",
+    "chunkName": "pages/_layout/login",
+    "_name": "_478a498c"
+  },
+  {
+    "name": "layout-messages___ro",
+    "path": "/ro/:layout/messages",
+    "component": "/Users/design/plf/pages/_layout/messages.vue",
+    "chunkName": "pages/_layout/messages",
+    "_name": "_3dac118b"
+  },
+  {
+    "name": "layout-pricing___ro",
+    "path": "/ro/:layout/pricing",
+    "component": "/Users/design/plf/pages/_layout/pricing.vue",
+    "chunkName": "pages/_layout/pricing",
+    "_name": "_06658ad7"
+  },
+  {
+    "name": "layout-signup___ro",
+    "path": "/ro/:layout/signup",
+    "component": "/Users/design/plf/pages/_layout/signup.vue",
+    "chunkName": "pages/_layout/signup",
+    "_name": "_110b0dd2"
+  },
+  {
+    "name": "layout-student-course___ro",
+    "path": "/ro/:layout/student-course",
+    "component": "/Users/design/plf/pages/_layout/student-course.vue",
+    "chunkName": "pages/_layout/student-course",
+    "_name": "_25c9c328"
+  },
+  {
+    "name": "layout-student-courses___ro",
+    "path": "/ro/:layout/student-courses",
+    "component": "/Users/design/plf/pages/_layout/student-courses.vue",
+    "chunkName": "pages/_layout/student-courses",
+    "_name": "_8c175f92"
+  },
+  {
+    "name": "layout-student-dashboard___ro",
+    "path": "/ro/:layout/student-dashboard",
+    "component": "/Users/design/plf/pages/_layout/student-dashboard.vue",
+    "chunkName": "pages/_layout/student-dashboard",
+    "_name": "_657d295a"
+  },
+  {
+    "name": "layout-student-lesson___ro",
+    "path": "/ro/:layout/student-lesson",
+    "component": "/Users/design/plf/pages/_layout/student-lesson.vue",
+    "chunkName": "pages/_layout/student-lesson",
+    "_name": "_17d31509"
+  },
+  {
+    "name": "layout-student-my-courses___ro",
+    "path": "/ro/:layout/student-my-courses",
+    "component": "/Users/design/plf/pages/_layout/student-my-courses.vue",
+    "chunkName": "pages/_layout/student-my-courses",
+    "_name": "_26860468"
+  },
+  {
+    "name": "layout-student-my-paths___ro",
+    "path": "/ro/:layout/student-my-paths",
+    "component": "/Users/design/plf/pages/_layout/student-my-paths.vue",
+    "chunkName": "pages/_layout/student-my-paths",
+    "_name": "_fc59c6c4"
+  },
+  {
+    "name": "layout-student-my-quizzes___ro",
+    "path": "/ro/:layout/student-my-quizzes",
+    "component": "/Users/design/plf/pages/_layout/student-my-quizzes.vue",
+    "chunkName": "pages/_layout/student-my-quizzes",
+    "_name": "_7a3f793a"
+  },
+  {
+    "name": "layout-student-path___ro",
+    "path": "/ro/:layout/student-path",
+    "component": "/Users/design/plf/pages/_layout/student-path.vue",
+    "chunkName": "pages/_layout/student-path",
+    "_name": "_3c8c87b6"
+  },
+  {
+    "name": "layout-student-paths___ro",
+    "path": "/ro/:layout/student-paths",
+    "component": "/Users/design/plf/pages/_layout/student-paths.vue",
+    "chunkName": "pages/_layout/student-paths",
+    "_name": "_58b0102d"
+  },
+  {
+    "name": "layout-student-profile___ro",
+    "path": "/ro/:layout/student-profile",
+    "component": "/Users/design/plf/pages/_layout/student-profile.vue",
+    "chunkName": "pages/_layout/student-profile",
+    "_name": "_6f1954b0"
+  },
+  {
+    "name": "layout-student-quiz-result___ro",
+    "path": "/ro/:layout/student-quiz-result",
+    "component": "/Users/design/plf/pages/_layout/student-quiz-result.vue",
+    "chunkName": "pages/_layout/student-quiz-result",
+    "_name": "_be883dd8"
+  },
+  {
+    "name": "layout-student-skill-assessment___ro",
+    "path": "/ro/:layout/student-skill-assessment",
+    "component": "/Users/design/plf/pages/_layout/student-skill-assessment.vue",
+    "chunkName": "pages/_layout/student-skill-assessment",
+    "_name": "_5b5da562"
+  },
+  {
+    "name": "layout-student-skill-result___ro",
+    "path": "/ro/:layout/student-skill-result",
+    "component": "/Users/design/plf/pages/_layout/student-skill-result.vue",
+    "chunkName": "pages/_layout/student-skill-result",
+    "_name": "_84bf48ac"
+  },
+  {
+    "name": "layout-student-take-course___ro",
+    "path": "/ro/:layout/student-take-course",
+    "component": "/Users/design/plf/pages/_layout/student-take-course.vue",
+    "chunkName": "pages/_layout/student-take-course",
+    "_name": "_0a0a76c0"
+  },
+  {
+    "name": "layout-student-take-lesson___ro",
+    "path": "/ro/:layout/student-take-lesson",
+    "component": "/Users/design/plf/pages/_layout/student-take-lesson.vue",
+    "chunkName": "pages/_layout/student-take-lesson",
+    "_name": "_25b2bb3d"
+  },
+  {
+    "name": "layout-student-take-quiz___ro",
+    "path": "/ro/:layout/student-take-quiz",
+    "component": "/Users/design/plf/pages/_layout/student-take-quiz.vue",
+    "chunkName": "pages/_layout/student-take-quiz",
+    "_name": "_62de511a"
+  },
+  {
+    "name": "layout-teachers___ro",
+    "path": "/ro/:layout/teachers",
+    "component": "/Users/design/plf/pages/_layout/teachers.vue",
+    "chunkName": "pages/_layout/teachers",
+    "_name": "_f4bd12e0"
+  },
+  {
+    "name": "layout-ui-alerts___ro",
+    "path": "/ro/:layout/ui-alerts",
+    "component": "/Users/design/plf/pages/_layout/ui-alerts.vue",
+    "chunkName": "pages/_layout/ui-alerts",
+    "_name": "_6b41fbc1"
+  },
+  {
+    "name": "layout-ui-app-layout___ro",
+    "path": "/ro/:layout/ui-app-layout",
+    "component": "/Users/design/plf/pages/_layout/ui-app-layout.vue",
+    "chunkName": "pages/_layout/ui-app-layout",
+    "_name": "_cc1d0600"
+  },
+  {
+    "name": "layout-ui-avatar___ro",
+    "path": "/ro/:layout/ui-avatar",
+    "component": "/Users/design/plf/pages/_layout/ui-avatar.vue",
+    "chunkName": "pages/_layout/ui-avatar",
+    "_name": "_40882cfa"
+  },
+  {
+    "name": "layout-ui-cards___ro",
+    "path": "/ro/:layout/ui-cards",
+    "component": "/Users/design/plf/pages/_layout/ui-cards.vue",
+    "chunkName": "pages/_layout/ui-cards",
+    "_name": "_029fdc29"
+  },
+  {
+    "name": "layout-ui-chart-area___ro",
+    "path": "/ro/:layout/ui-chart-area",
+    "component": "/Users/design/plf/pages/_layout/ui-chart-area.vue",
+    "chunkName": "pages/_layout/ui-chart-area",
+    "_name": "_3d1aea74"
+  },
+  {
+    "name": "layout-ui-chart-bar___ro",
+    "path": "/ro/:layout/ui-chart-bar",
+    "component": "/Users/design/plf/pages/_layout/ui-chart-bar.vue",
+    "chunkName": "pages/_layout/ui-chart-bar",
+    "_name": "_51570eea"
+  },
+  {
+    "name": "layout-ui-chart-doughnut___ro",
+    "path": "/ro/:layout/ui-chart-doughnut",
+    "component": "/Users/design/plf/pages/_layout/ui-chart-doughnut.vue",
+    "chunkName": "pages/_layout/ui-chart-doughnut",
+    "_name": "_75589f3b"
+  },
+  {
+    "name": "layout-ui-chart-line___ro",
+    "path": "/ro/:layout/ui-chart-line",
+    "component": "/Users/design/plf/pages/_layout/ui-chart-line.vue",
+    "chunkName": "pages/_layout/ui-chart-line",
+    "_name": "_e8c942a6"
+  },
+  {
+    "name": "layout-ui-chart-radar___ro",
+    "path": "/ro/:layout/ui-chart-radar",
+    "component": "/Users/design/plf/pages/_layout/ui-chart-radar.vue",
+    "chunkName": "pages/_layout/ui-chart-radar",
+    "_name": "_0e2d809d"
+  },
+  {
+    "name": "layout-ui-drawer___ro",
+    "path": "/ro/:layout/ui-drawer",
+    "component": "/Users/design/plf/pages/_layout/ui-drawer.vue",
+    "chunkName": "pages/_layout/ui-drawer",
+    "_name": "_110c951b"
+  },
+  {
+    "name": "layout-ui-drawer-layout___ro",
+    "path": "/ro/:layout/ui-drawer-layout",
+    "component": "/Users/design/plf/pages/_layout/ui-drawer-layout.vue",
+    "chunkName": "pages/_layout/ui-drawer-layout",
+    "_name": "_13c148cc"
+  },
+  {
+    "name": "layout-ui-fixed-layout___ro",
+    "path": "/ro/:layout/ui-fixed-layout",
+    "component": "/Users/design/plf/pages/_layout/ui-fixed-layout.vue",
+    "chunkName": "pages/_layout/ui-fixed-layout",
+    "_name": "_226e914d"
+  },
+  {
+    "name": "layout-ui-form-image-group___ro",
+    "path": "/ro/:layout/ui-form-image-group",
+    "component": "/Users/design/plf/pages/_layout/ui-form-image-group.vue",
+    "chunkName": "pages/_layout/ui-form-image-group",
+    "_name": "_0079082e"
+  },
+  {
+    "name": "layout-ui-forms___ro",
+    "path": "/ro/:layout/ui-forms",
+    "component": "/Users/design/plf/pages/_layout/ui-forms.vue",
+    "chunkName": "pages/_layout/ui-forms",
+    "_name": "_7d193af5"
+  },
+  {
+    "name": "layout-ui-header___ro",
+    "path": "/ro/:layout/ui-header",
+    "component": "/Users/design/plf/pages/_layout/ui-header.vue",
+    "chunkName": "pages/_layout/ui-header",
+    "_name": "_6da250b7"
+  },
+  {
+    "name": "layout-ui-header-layout___ro",
+    "path": "/ro/:layout/ui-header-layout",
+    "component": "/Users/design/plf/pages/_layout/ui-header-layout.vue",
+    "chunkName": "pages/_layout/ui-header-layout",
+    "_name": "_1e8a85b0"
+  },
+  {
+    "name": "layout-ui-icons___ro",
+    "path": "/ro/:layout/ui-icons",
+    "component": "/Users/design/plf/pages/_layout/ui-icons.vue",
+    "chunkName": "pages/_layout/ui-icons",
+    "_name": "_834ad740"
+  },
+  {
+    "name": "layout-ui-input-group-merge___ro",
+    "path": "/ro/:layout/ui-input-group-merge",
+    "component": "/Users/design/plf/pages/_layout/ui-input-group-merge.vue",
+    "chunkName": "pages/_layout/ui-input-group-merge",
+    "_name": "_2aad9bad"
+  },
+  {
+    "name": "layout-ui-perfect-scrollbar___ro",
+    "path": "/ro/:layout/ui-perfect-scrollbar",
+    "component": "/Users/design/plf/pages/_layout/ui-perfect-scrollbar.vue",
+    "chunkName": "pages/_layout/ui-perfect-scrollbar",
+    "_name": "_3e6362ac"
+  },
+  {
+    "name": "layout-ui-sidebar___ro",
+    "path": "/ro/:layout/ui-sidebar",
+    "component": "/Users/design/plf/pages/_layout/ui-sidebar.vue",
+    "chunkName": "pages/_layout/ui-sidebar",
+    "_name": "_2b8fafbc"
+  },
+  {
+    "name": "layout-ui-sidebar-menu___ro",
+    "path": "/ro/:layout/ui-sidebar-menu",
+    "component": "/Users/design/plf/pages/_layout/ui-sidebar-menu.vue",
+    "chunkName": "pages/_layout/ui-sidebar-menu",
+    "_name": "_7e14174c"
+  },
+  {
+    "name": "layout-ui-syntax-highlight___ro",
+    "path": "/ro/:layout/ui-syntax-highlight",
+    "component": "/Users/design/plf/pages/_layout/ui-syntax-highlight.vue",
+    "chunkName": "pages/_layout/ui-syntax-highlight",
+    "_name": "_19b23474"
+  },
+  {
+    "name": "layout-ui-tabs___ro",
+    "path": "/ro/:layout/ui-tabs",
+    "component": "/Users/design/plf/pages/_layout/ui-tabs.vue",
+    "chunkName": "pages/_layout/ui-tabs",
+    "_name": "_79a1c4b0"
+  },
+  {
+    "name": "index___en",
+    "path": "/",
+    "component": "/Users/design/plf/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_5b6ef169"
+  },
+  {
+    "name": "layout-billing___en",
+    "path": "/:layout/billing",
+    "component": "/Users/design/plf/pages/_layout/billing.vue",
+    "chunkName": "pages/_layout/billing",
+    "_name": "_a1f2a9e8"
+  },
+  {
+    "name": "layout-billing-history___en",
+    "path": "/:layout/billing-history",
+    "component": "/Users/design/plf/pages/_layout/billing-history.vue",
+    "chunkName": "pages/_layout/billing-history",
+    "_name": "_399e8353"
+  },
+  {
+    "name": "layout-billing-invoice___en",
+    "path": "/:layout/billing-invoice",
+    "component": "/Users/design/plf/pages/_layout/billing-invoice.vue",
+    "chunkName": "pages/_layout/billing-invoice",
+    "_name": "_1d7c2528"
+  },
+  {
+    "name": "layout-billing-payment___en",
+    "path": "/:layout/billing-payment",
+    "component": "/Users/design/plf/pages/_layout/billing-payment.vue",
+    "chunkName": "pages/_layout/billing-payment",
+    "_name": "_6e5a7076"
+  },
+  {
+    "name": "layout-billing-upgrade___en",
+    "path": "/:layout/billing-upgrade",
+    "component": "/Users/design/plf/pages/_layout/billing-upgrade.vue",
+    "chunkName": "pages/_layout/billing-upgrade",
+    "_name": "_929d964a"
+  },
+  {
+    "name": "layout-blog___en",
+    "path": "/:layout/blog",
+    "component": "/Users/design/plf/pages/_layout/blog.vue",
+    "chunkName": "pages/_layout/blog",
+    "_name": "_0c341061"
+  },
+  {
+    "name": "layout-blog-post___en",
+    "path": "/:layout/blog-post",
+    "component": "/Users/design/plf/pages/_layout/blog-post.vue",
+    "chunkName": "pages/_layout/blog-post",
+    "_name": "_44c8563c"
+  },
+  {
+    "name": "layout-change-password___en",
+    "path": "/:layout/change-password",
+    "component": "/Users/design/plf/pages/_layout/change-password.vue",
+    "chunkName": "pages/_layout/change-password",
+    "_name": "_da198dae"
+  },
+  {
+    "name": "layout-discussion___en",
+    "path": "/:layout/discussion",
+    "component": "/Users/design/plf/pages/_layout/discussion.vue",
+    "chunkName": "pages/_layout/discussion",
+    "_name": "_12812ca7"
+  },
+  {
+    "name": "layout-discussions___en",
+    "path": "/:layout/discussions",
+    "component": "/Users/design/plf/pages/_layout/discussions.vue",
+    "chunkName": "pages/_layout/discussions",
+    "_name": "_4150095c"
+  },
+  {
+    "name": "layout-discussions-ask___en",
+    "path": "/:layout/discussions-ask",
+    "component": "/Users/design/plf/pages/_layout/discussions-ask.vue",
+    "chunkName": "pages/_layout/discussions-ask",
+    "_name": "_491cfef0"
+  },
+  {
+    "name": "layout-edit-account___en",
+    "path": "/:layout/edit-account",
+    "component": "/Users/design/plf/pages/_layout/edit-account.vue",
+    "chunkName": "pages/_layout/edit-account",
+    "_name": "_1a43d729"
+  },
+  {
+    "name": "layout-edit-account-notifications___en",
+    "path": "/:layout/edit-account-notifications",
+    "component": "/Users/design/plf/pages/_layout/edit-account-notifications.vue",
+    "chunkName": "pages/_layout/edit-account-notifications",
+    "_name": "_3892a5c4"
+  },
+  {
+    "name": "layout-edit-account-profile___en",
+    "path": "/:layout/edit-account-profile",
+    "component": "/Users/design/plf/pages/_layout/edit-account-profile.vue",
+    "chunkName": "pages/_layout/edit-account-profile",
+    "_name": "_c76755f6"
+  },
+  {
+    "name": "layout-faq___en",
+    "path": "/:layout/faq",
+    "component": "/Users/design/plf/pages/_layout/faq.vue",
+    "chunkName": "pages/_layout/faq",
+    "_name": "_5e22f2a7"
+  },
+  {
+    "name": "layout-forgot-password___en",
+    "path": "/:layout/forgot-password",
+    "component": "/Users/design/plf/pages/_layout/forgot-password.vue",
+    "chunkName": "pages/_layout/forgot-password",
+    "_name": "_d1d746d4"
+  },
+  {
+    "name": "layout-help-center___en",
+    "path": "/:layout/help-center",
+    "component": "/Users/design/plf/pages/_layout/help-center.vue",
+    "chunkName": "pages/_layout/help-center",
+    "_name": "_80eaa51c"
+  },
+  {
+    "name": "layout-home___en",
+    "path": "/:layout/home",
+    "component": "/Users/design/plf/pages/_layout/home.vue",
+    "chunkName": "pages/_layout/home",
+    "_name": "_16a7ef1e"
+  },
+  {
+    "name": "layout-instructor-courses___en",
+    "path": "/:layout/instructor-courses",
+    "component": "/Users/design/plf/pages/_layout/instructor-courses.vue",
+    "chunkName": "pages/_layout/instructor-courses",
+    "_name": "_04781807"
+  },
+  {
+    "name": "layout-instructor-dashboard___en",
+    "path": "/:layout/instructor-dashboard",
+    "component": "/Users/design/plf/pages/_layout/instructor-dashboard.vue",
+    "chunkName": "pages/_layout/instructor-dashboard",
+    "_name": "_f41b01ba"
+  },
+  {
+    "name": "layout-instructor-earnings___en",
+    "path": "/:layout/instructor-earnings",
+    "component": "/Users/design/plf/pages/_layout/instructor-earnings.vue",
+    "chunkName": "pages/_layout/instructor-earnings",
+    "_name": "_03fc2bea"
+  },
+  {
+    "name": "layout-instructor-edit-course___en",
+    "path": "/:layout/instructor-edit-course",
+    "component": "/Users/design/plf/pages/_layout/instructor-edit-course.vue",
+    "chunkName": "pages/_layout/instructor-edit-course",
+    "_name": "_43d6eb0d"
+  },
+  {
+    "name": "layout-instructor-edit-quiz___en",
+    "path": "/:layout/instructor-edit-quiz",
+    "component": "/Users/design/plf/pages/_layout/instructor-edit-quiz.vue",
+    "chunkName": "pages/_layout/instructor-edit-quiz",
+    "_name": "_5f7b2ec7"
+  },
+  {
+    "name": "layout-instructor-profile___en",
+    "path": "/:layout/instructor-profile",
+    "component": "/Users/design/plf/pages/_layout/instructor-profile.vue",
+    "chunkName": "pages/_layout/instructor-profile",
+    "_name": "_12f71d78"
+  },
+  {
+    "name": "layout-instructor-quizzes___en",
+    "path": "/:layout/instructor-quizzes",
+    "component": "/Users/design/plf/pages/_layout/instructor-quizzes.vue",
+    "chunkName": "pages/_layout/instructor-quizzes",
+    "_name": "_be5b51fc"
+  },
+  {
+    "name": "layout-instructor-statement___en",
+    "path": "/:layout/instructor-statement",
+    "component": "/Users/design/plf/pages/_layout/instructor-statement.vue",
+    "chunkName": "pages/_layout/instructor-statement",
+    "_name": "_70444f04"
+  },
+  {
+    "name": "layout-login___en",
+    "path": "/:layout/login",
+    "component": "/Users/design/plf/pages/_layout/login.vue",
+    "chunkName": "pages/_layout/login",
+    "_name": "_478a498c"
+  },
+  {
+    "name": "layout-messages___en",
+    "path": "/:layout/messages",
+    "component": "/Users/design/plf/pages/_layout/messages.vue",
+    "chunkName": "pages/_layout/messages",
+    "_name": "_3dac118b"
+  },
+  {
+    "name": "layout-pricing___en",
+    "path": "/:layout/pricing",
+    "component": "/Users/design/plf/pages/_layout/pricing.vue",
+    "chunkName": "pages/_layout/pricing",
+    "_name": "_06658ad7"
+  },
+  {
+    "name": "layout-signup___en",
+    "path": "/:layout/signup",
+    "component": "/Users/design/plf/pages/_layout/signup.vue",
+    "chunkName": "pages/_layout/signup",
+    "_name": "_110b0dd2"
+  },
+  {
+    "name": "layout-student-course___en",
+    "path": "/:layout/student-course",
+    "component": "/Users/design/plf/pages/_layout/student-course.vue",
+    "chunkName": "pages/_layout/student-course",
+    "_name": "_25c9c328"
+  },
+  {
+    "name": "layout-student-courses___en",
+    "path": "/:layout/student-courses",
+    "component": "/Users/design/plf/pages/_layout/student-courses.vue",
+    "chunkName": "pages/_layout/student-courses",
+    "_name": "_8c175f92"
+  },
+  {
+    "name": "layout-student-dashboard___en",
+    "path": "/:layout/student-dashboard",
+    "component": "/Users/design/plf/pages/_layout/student-dashboard.vue",
+    "chunkName": "pages/_layout/student-dashboard",
+    "_name": "_657d295a"
+  },
+  {
+    "name": "layout-student-lesson___en",
+    "path": "/:layout/student-lesson",
+    "component": "/Users/design/plf/pages/_layout/student-lesson.vue",
+    "chunkName": "pages/_layout/student-lesson",
+    "_name": "_17d31509"
+  },
+  {
+    "name": "layout-student-my-courses___en",
+    "path": "/:layout/student-my-courses",
+    "component": "/Users/design/plf/pages/_layout/student-my-courses.vue",
+    "chunkName": "pages/_layout/student-my-courses",
+    "_name": "_26860468"
+  },
+  {
+    "name": "layout-student-my-paths___en",
+    "path": "/:layout/student-my-paths",
+    "component": "/Users/design/plf/pages/_layout/student-my-paths.vue",
+    "chunkName": "pages/_layout/student-my-paths",
+    "_name": "_fc59c6c4"
+  },
+  {
+    "name": "layout-student-my-quizzes___en",
+    "path": "/:layout/student-my-quizzes",
+    "component": "/Users/design/plf/pages/_layout/student-my-quizzes.vue",
+    "chunkName": "pages/_layout/student-my-quizzes",
+    "_name": "_7a3f793a"
+  },
+  {
+    "name": "layout-student-path___en",
+    "path": "/:layout/student-path",
+    "component": "/Users/design/plf/pages/_layout/student-path.vue",
+    "chunkName": "pages/_layout/student-path",
+    "_name": "_3c8c87b6"
+  },
+  {
+    "name": "layout-student-paths___en",
+    "path": "/:layout/student-paths",
+    "component": "/Users/design/plf/pages/_layout/student-paths.vue",
+    "chunkName": "pages/_layout/student-paths",
+    "_name": "_58b0102d"
+  },
+  {
+    "name": "layout-student-profile___en",
+    "path": "/:layout/student-profile",
+    "component": "/Users/design/plf/pages/_layout/student-profile.vue",
+    "chunkName": "pages/_layout/student-profile",
+    "_name": "_6f1954b0"
+  },
+  {
+    "name": "layout-student-quiz-result___en",
+    "path": "/:layout/student-quiz-result",
+    "component": "/Users/design/plf/pages/_layout/student-quiz-result.vue",
+    "chunkName": "pages/_layout/student-quiz-result",
+    "_name": "_be883dd8"
+  },
+  {
+    "name": "layout-student-skill-assessment___en",
+    "path": "/:layout/student-skill-assessment",
+    "component": "/Users/design/plf/pages/_layout/student-skill-assessment.vue",
+    "chunkName": "pages/_layout/student-skill-assessment",
+    "_name": "_5b5da562"
+  },
+  {
+    "name": "layout-student-skill-result___en",
+    "path": "/:layout/student-skill-result",
+    "component": "/Users/design/plf/pages/_layout/student-skill-result.vue",
+    "chunkName": "pages/_layout/student-skill-result",
+    "_name": "_84bf48ac"
+  },
+  {
+    "name": "layout-student-take-course___en",
+    "path": "/:layout/student-take-course",
+    "component": "/Users/design/plf/pages/_layout/student-take-course.vue",
+    "chunkName": "pages/_layout/student-take-course",
+    "_name": "_0a0a76c0"
+  },
+  {
+    "name": "layout-student-take-lesson___en",
+    "path": "/:layout/student-take-lesson",
+    "component": "/Users/design/plf/pages/_layout/student-take-lesson.vue",
+    "chunkName": "pages/_layout/student-take-lesson",
+    "_name": "_25b2bb3d"
+  },
+  {
+    "name": "layout-student-take-quiz___en",
+    "path": "/:layout/student-take-quiz",
+    "component": "/Users/design/plf/pages/_layout/student-take-quiz.vue",
+    "chunkName": "pages/_layout/student-take-quiz",
+    "_name": "_62de511a"
+  },
+  {
+    "name": "layout-teachers___en",
+    "path": "/:layout/teachers",
+    "component": "/Users/design/plf/pages/_layout/teachers.vue",
+    "chunkName": "pages/_layout/teachers",
+    "_name": "_f4bd12e0"
+  },
+  {
+    "name": "layout-ui-alerts___en",
+    "path": "/:layout/ui-alerts",
+    "component": "/Users/design/plf/pages/_layout/ui-alerts.vue",
+    "chunkName": "pages/_layout/ui-alerts",
+    "_name": "_6b41fbc1"
+  },
+  {
+    "name": "layout-ui-app-layout___en",
+    "path": "/:layout/ui-app-layout",
+    "component": "/Users/design/plf/pages/_layout/ui-app-layout.vue",
+    "chunkName": "pages/_layout/ui-app-layout",
+    "_name": "_cc1d0600"
+  },
+  {
+    "name": "layout-ui-avatar___en",
+    "path": "/:layout/ui-avatar",
+    "component": "/Users/design/plf/pages/_layout/ui-avatar.vue",
+    "chunkName": "pages/_layout/ui-avatar",
+    "_name": "_40882cfa"
+  },
+  {
+    "name": "layout-ui-cards___en",
+    "path": "/:layout/ui-cards",
+    "component": "/Users/design/plf/pages/_layout/ui-cards.vue",
+    "chunkName": "pages/_layout/ui-cards",
+    "_name": "_029fdc29"
+  },
+  {
+    "name": "layout-ui-chart-area___en",
+    "path": "/:layout/ui-chart-area",
+    "component": "/Users/design/plf/pages/_layout/ui-chart-area.vue",
+    "chunkName": "pages/_layout/ui-chart-area",
+    "_name": "_3d1aea74"
+  },
+  {
+    "name": "layout-ui-chart-bar___en",
+    "path": "/:layout/ui-chart-bar",
+    "component": "/Users/design/plf/pages/_layout/ui-chart-bar.vue",
+    "chunkName": "pages/_layout/ui-chart-bar",
+    "_name": "_51570eea"
+  },
+  {
+    "name": "layout-ui-chart-doughnut___en",
+    "path": "/:layout/ui-chart-doughnut",
+    "component": "/Users/design/plf/pages/_layout/ui-chart-doughnut.vue",
+    "chunkName": "pages/_layout/ui-chart-doughnut",
+    "_name": "_75589f3b"
+  },
+  {
+    "name": "layout-ui-chart-line___en",
+    "path": "/:layout/ui-chart-line",
+    "component": "/Users/design/plf/pages/_layout/ui-chart-line.vue",
+    "chunkName": "pages/_layout/ui-chart-line",
+    "_name": "_e8c942a6"
+  },
+  {
+    "name": "layout-ui-chart-radar___en",
+    "path": "/:layout/ui-chart-radar",
+    "component": "/Users/design/plf/pages/_layout/ui-chart-radar.vue",
+    "chunkName": "pages/_layout/ui-chart-radar",
+    "_name": "_0e2d809d"
+  },
+  {
+    "name": "layout-ui-drawer___en",
+    "path": "/:layout/ui-drawer",
+    "component": "/Users/design/plf/pages/_layout/ui-drawer.vue",
+    "chunkName": "pages/_layout/ui-drawer",
+    "_name": "_110c951b"
+  },
+  {
+    "name": "layout-ui-drawer-layout___en",
+    "path": "/:layout/ui-drawer-layout",
+    "component": "/Users/design/plf/pages/_layout/ui-drawer-layout.vue",
+    "chunkName": "pages/_layout/ui-drawer-layout",
+    "_name": "_13c148cc"
+  },
+  {
+    "name": "layout-ui-fixed-layout___en",
+    "path": "/:layout/ui-fixed-layout",
+    "component": "/Users/design/plf/pages/_layout/ui-fixed-layout.vue",
+    "chunkName": "pages/_layout/ui-fixed-layout",
+    "_name": "_226e914d"
+  },
+  {
+    "name": "layout-ui-form-image-group___en",
+    "path": "/:layout/ui-form-image-group",
+    "component": "/Users/design/plf/pages/_layout/ui-form-image-group.vue",
+    "chunkName": "pages/_layout/ui-form-image-group",
+    "_name": "_0079082e"
+  },
+  {
+    "name": "layout-ui-forms___en",
+    "path": "/:layout/ui-forms",
+    "component": "/Users/design/plf/pages/_layout/ui-forms.vue",
+    "chunkName": "pages/_layout/ui-forms",
+    "_name": "_7d193af5"
+  },
+  {
+    "name": "layout-ui-header___en",
+    "path": "/:layout/ui-header",
+    "component": "/Users/design/plf/pages/_layout/ui-header.vue",
+    "chunkName": "pages/_layout/ui-header",
+    "_name": "_6da250b7"
+  },
+  {
+    "name": "layout-ui-header-layout___en",
+    "path": "/:layout/ui-header-layout",
+    "component": "/Users/design/plf/pages/_layout/ui-header-layout.vue",
+    "chunkName": "pages/_layout/ui-header-layout",
+    "_name": "_1e8a85b0"
+  },
+  {
+    "name": "layout-ui-icons___en",
+    "path": "/:layout/ui-icons",
+    "component": "/Users/design/plf/pages/_layout/ui-icons.vue",
+    "chunkName": "pages/_layout/ui-icons",
+    "_name": "_834ad740"
+  },
+  {
+    "name": "layout-ui-input-group-merge___en",
+    "path": "/:layout/ui-input-group-merge",
+    "component": "/Users/design/plf/pages/_layout/ui-input-group-merge.vue",
+    "chunkName": "pages/_layout/ui-input-group-merge",
+    "_name": "_2aad9bad"
+  },
+  {
+    "name": "layout-ui-perfect-scrollbar___en",
+    "path": "/:layout/ui-perfect-scrollbar",
+    "component": "/Users/design/plf/pages/_layout/ui-perfect-scrollbar.vue",
+    "chunkName": "pages/_layout/ui-perfect-scrollbar",
+    "_name": "_3e6362ac"
+  },
+  {
+    "name": "layout-ui-sidebar___en",
+    "path": "/:layout/ui-sidebar",
+    "component": "/Users/design/plf/pages/_layout/ui-sidebar.vue",
+    "chunkName": "pages/_layout/ui-sidebar",
+    "_name": "_2b8fafbc"
+  },
+  {
+    "name": "layout-ui-sidebar-menu___en",
+    "path": "/:layout/ui-sidebar-menu",
+    "component": "/Users/design/plf/pages/_layout/ui-sidebar-menu.vue",
+    "chunkName": "pages/_layout/ui-sidebar-menu",
+    "_name": "_7e14174c"
+  },
+  {
+    "name": "layout-ui-syntax-highlight___en",
+    "path": "/:layout/ui-syntax-highlight",
+    "component": "/Users/design/plf/pages/_layout/ui-syntax-highlight.vue",
+    "chunkName": "pages/_layout/ui-syntax-highlight",
+    "_name": "_19b23474"
+  },
+  {
+    "name": "layout-ui-tabs___en",
+    "path": "/:layout/ui-tabs",
+    "component": "/Users/design/plf/pages/_layout/ui-tabs.vue",
+    "chunkName": "pages/_layout/ui-tabs",
+    "_name": "_79a1c4b0"
+  }
+]
